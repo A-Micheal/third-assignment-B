@@ -7,7 +7,7 @@
 body{
     margin:auto;
     padding-top: 60px;
-    background-color:#3c3d3f ;
+    background-color:#f1f4f8 ;
 }
 .general-container{
     width: 50%;
@@ -19,20 +19,36 @@ body{
    min-height: 90%;
    background-color:rgba(255, 221, 170, 0.911);
    border-radius: 40px;
-   padding:20px 30px 20px 20px;
+   padding:20px 10px 20px 20px;
    border: 1px solid rgb(224, 191, 191);
 
 }
 ul li , ol li{
     margin: 20px ;
 }
+.ul1{
+    background-color: white;
+    width: 50%;
+    border-radius: 25px;
+    padding-top:20px ;
+    padding-left: 20px;
+    margin-right: 10px;
+}
+.ol1{
+    background-color: rgb(214, 162, 84);
+    padding-top:20px ;
+    padding-left: 20px;
+    border-radius: 25px;
+    width: 50%;
+}
 .unordered-list{
     font: size 14px;
     color: blanchedalmond;
+
 }
 #unordered-list1{
     font-size:16px;
-    color:aliceblue;
+    color:rgb(3, 44, 80);
 
 } 
 .list1{
@@ -40,7 +56,7 @@ ul li , ol li{
     font-size: 10px;
 }
 #list1a{
-    color:white;
+    color:rgb(2, 21, 26);
     font-size: 14px;
 }
 .list2{
@@ -48,7 +64,7 @@ ul li , ol li{
     font-size: 16px;
 }
 #list2a{
-    color: aliceblue;
+    color: rgb(11, 137, 247);
     font-size:14px;
 }
 #list3a{
